@@ -1,0 +1,5 @@
+db.php
+phpinfo.php
+*.zip
+temp/*/cwm/
+qrimg/*.png
